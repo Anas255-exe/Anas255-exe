@@ -2,10 +2,3 @@ I’m a 3rd year Computer Science student who enjoys building backend and AI dri
 
 I have worked across research, startups, and production environments, and I actively build projects end to end to strengthen my fundamentals.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Anas255-exe&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
